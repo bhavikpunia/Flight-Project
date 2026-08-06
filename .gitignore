@@ -1,0 +1,33 @@
+# Compiled Java files
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/
+build/
+dist/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
